@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="txt_myMap">打开百度地图</string>
+    <string name="txt_trafficMap">实时交通信息图</string>
+    <string name="txt_satellite">卫星地图</string>
+
+</resources>
